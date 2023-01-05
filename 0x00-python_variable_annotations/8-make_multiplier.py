@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-'''Module for function that returns a function that multiplies a float by a multiplier.
+'''Module for function that returns a function
+that multiplies a float by a multiplier.
 '''
 from typing import Callable
 
